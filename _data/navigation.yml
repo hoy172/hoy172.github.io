@@ -16,3 +16,6 @@ main:
     url: /cate/
   - title: "Tags"
     url: /tags/
+  - title: "Post By Year"
+    url: "year-archive"
+    
