@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on 개발 일기</title>
+    <link>https://hoy172.github.io/tags/</link>
+    <description>Recent content in Tags on 개발 일기</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>kr-ko</language>
+    <managingEditor>js.hoy172@gmail.com (ji soo Hong)</managingEditor>
+    <webMaster>js.hoy172@gmail.com (ji soo Hong)</webMaster><atom:link href="https://hoy172.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
