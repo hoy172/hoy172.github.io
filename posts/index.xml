@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 개발 일기</title>
+    <link>https://hoy172.github.io/posts/</link>
+    <description>Recent content in Posts on 개발 일기</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr-ko</language>
+    <managingEditor>js.hoy172@gmail.com (ji soo Hong)</managingEditor>
+    <webMaster>js.hoy172@gmail.com (ji soo Hong)</webMaster>
+    <lastBuildDate>Tue, 13 Apr 2021 21:30:05 +0900</lastBuildDate><atom:link href="https://hoy172.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>람다 표현식----JAVA8 in Action</title>
+      <link>https://hoy172.github.io/posts/lamda/</link>
+      <pubDate>Tue, 13 Apr 2021 21:30:05 +0900</pubDate>
+      <author>js.hoy172@gmail.com (ji soo Hong)</author>
+      <guid>https://hoy172.github.io/posts/lamda/</guid>
+      <description>Lamda 람다 표현식은 메서드로 전달할 수 있는 익명 함수를 단수화한 것이다. 다음과 같은 특징이 있다.
+ 익명 : 보통의 메서드와 달리 이름이 없다. 함수 : 람다는 메서드처럼 특정 클래스에 종속되지 않으므로 함수라고 부른다. 하지만 메서드처럼 파라미터 리스트,바디, 반환형식, 가능한 예외 리스트를 포함한다. 전달 : 람다 표현식을 메서드 인수로 전달하거나 변수로 저장할 수 있다. 간결성 : 익명 클래스보다 코드 길이가 짧다.   즉, 람다는 JAVA8 이전에 할 수 없었던 것을 하는 것이아니라.</description>
+    </item>
+    
+  </channel>
+</rss>
