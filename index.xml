@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>kr-ko</language>
     <managingEditor>js.hoy172@gmail.com (ji soo Hong)</managingEditor>
-    <webMaster>js.hoy172@gmail.com (ji soo Hong)</webMaster><atom:link href="https://hoy172.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>js.hoy172@gmail.com (ji soo Hong)</webMaster>
+    <lastBuildDate>Tue, 13 Apr 2021 21:30:05 +0900</lastBuildDate><atom:link href="https://hoy172.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>람다표현식</title>
+      <link>https://hoy172.github.io/posts/lamda/</link>
+      <pubDate>Tue, 13 Apr 2021 21:30:05 +0900</pubDate>
+      <author>js.hoy172@gmail.com (ji soo Hong)</author>
+      <guid>https://hoy172.github.io/posts/lamda/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
